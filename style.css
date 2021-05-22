@@ -1,0 +1,29 @@
+  h1 {
+    color: rgb(255, 0, 0);
+    font-family: verdana;
+    font-size: 300%;
+  }
+  p {
+    color: rgb(77, 25, 218);
+    font-family: courier;
+    font-size: 160%;
+  }
+head {
+   
+    color: red; 
+  
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+  }
+  .div1 {
+    float: right;
+  }
+  
+  .div2 {
+    float: left;
+  }
